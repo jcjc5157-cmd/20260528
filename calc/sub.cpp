@@ -1,6 +1,6 @@
 #include "sub.h"
 
-int sub(int, int)
+int sub(int a, int b)
 {
-
+	retrun a - b;
 }
